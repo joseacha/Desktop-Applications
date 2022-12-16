@@ -11,7 +11,7 @@ This is a simple Python program that allows you to rename multiple files in a fo
 
 To use the program, simply run it with Python:
 
-python file_renaming_tool.py
+'python file_renaming_tool.py'
 
 
 A window will open with a text entry field and a button. Enter the desired prefix for the new file names in the text entry field, then click the "Rename files" button. A file browser will open, allowing you to select the folder containing the files you want to rename. The program will then rename all the files in the selected folder with the specified prefix.
